@@ -1,4 +1,4 @@
-package uk.co.jamesridgway.spring.boot.oauth2.server.models;
+package uk.co.jamesridgway.spring.boot.oauth2.server.web.models;
 
 import java.time.LocalDateTime;
 

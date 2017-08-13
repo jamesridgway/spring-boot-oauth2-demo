@@ -1,1 +1,4 @@
 /.idea
+spring-boot-oauth2-server/build/
+spring-boot-oauth2-server/out/
+*.iml
